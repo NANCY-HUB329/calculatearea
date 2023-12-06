@@ -1,0 +1,14 @@
+C:\Users\Nancy\Desktop\my c projects\calculatearea\obj\Debug\net6.0\calculatearea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nancy\Desktop\my c projects\calculatearea\obj\Debug\net6.0\calculatearea.AssemblyInfoInputs.cache
+C:\Users\Nancy\Desktop\my c projects\calculatearea\obj\Debug\net6.0\calculatearea.AssemblyInfo.cs
+C:\Users\Nancy\Desktop\my c projects\calculatearea\obj\Debug\net6.0\calculatearea.csproj.CoreCompileInputs.cache
+C:\Users\Nancy\Desktop\my c projects\calculatearea\bin\Debug\net6.0\calculatearea.exe
+C:\Users\Nancy\Desktop\my c projects\calculatearea\bin\Debug\net6.0\calculatearea.deps.json
+C:\Users\Nancy\Desktop\my c projects\calculatearea\bin\Debug\net6.0\calculatearea.runtimeconfig.json
+C:\Users\Nancy\Desktop\my c projects\calculatearea\bin\Debug\net6.0\calculatearea.dll
+C:\Users\Nancy\Desktop\my c projects\calculatearea\bin\Debug\net6.0\calculatearea.pdb
+C:\Users\Nancy\Desktop\my c projects\calculatearea\obj\Debug\net6.0\calculatearea.dll
+C:\Users\Nancy\Desktop\my c projects\calculatearea\obj\Debug\net6.0\refint\calculatearea.dll
+C:\Users\Nancy\Desktop\my c projects\calculatearea\obj\Debug\net6.0\calculatearea.pdb
+C:\Users\Nancy\Desktop\my c projects\calculatearea\obj\Debug\net6.0\calculatearea.genruntimeconfig.cache
+C:\Users\Nancy\Desktop\my c projects\calculatearea\obj\Debug\net6.0\ref\calculatearea.dll
